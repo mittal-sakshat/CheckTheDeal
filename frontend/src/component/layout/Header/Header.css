@@ -1,0 +1,21 @@
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: black;
+} */
+
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  top: 3vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
